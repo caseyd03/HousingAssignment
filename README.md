@@ -13,7 +13,8 @@ You'll be first using a sample dataset to practice your data analysis skills, an
 
 In `data.json`, a sample housing dataset has been provided. Each object in this data set acts as a person, containing important information like `Income`, `numberOfChildren`, and `disabledStatus`. Here is an example piece of data:
 
-`{
+```json
+{
     "Income": 17173, 
     "employmentStatus": "Unemployed", 
     "numberOfChildren": 3, 
@@ -21,8 +22,8 @@ In `data.json`, a sample housing dataset has been provided. Each object in this 
     "Race": "Hispanic/Latino", 
     "Gender": "Female", 
     "veteranStatus": "No"
-}`
-
+}
+```
 Using filters in python, create a copy of the dataset that only contains people with an `Income` of `15000` or less. Store this in a variable called `lowIncome`.
 
 Next, create the variables `greaterThan3Children` and `disabledOrVeteran` and use filters to create copies of the dataset containing only those with less than 3 children and those who qualify as `disabled` or `veteran`, respectively.

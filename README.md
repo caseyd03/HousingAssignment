@@ -28,5 +28,15 @@ Using filters in python, create a copy of the dataset that only contains people 
 
 Next, create the variables `greaterThan3Children` and `disabledOrVeteran` and use filters to create copies of the dataset containing only those with less than 3 children and those who qualify as `disabled` or `veteran`, respectively.
 
-Examine the length of these arrays in comparison to the original 25-element dataset. How much smaller is it now? Do you think these filters are helpful for 
+Examine the length of these arrays in comparison to the original 100-element dataset. How much smaller are they?
+
+### Part 2
+
+One of the key issues surrounding housing allocation is deciding how the resources are distributed. When considering many factors, and dealing with large amounts of people, it can be hard to look at each situation individually. We can use our computer science skills to make more efficient decisions.
+
+You are now provided with a resource constraint. Out of the `100` people whose information is provided in the dataset, only `20` can be provided housing.
+
+First, reflect and write down what data you consider most important for deciding who gets housing.
+
+Next, using your knowledge on filters and modifying arrays. 
 

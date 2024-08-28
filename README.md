@@ -11,4 +11,6 @@ You'll be first using a sample dataset to practice your data analysis skills, an
 
 ### Part 1
 
-In `data.py`, a sample housing dataset has been provided.
+In `data.json`, a sample housing dataset has been provided. Each object in this data set acts as a person, containing important information like `Income`, `numberOfChildren`, and `disabilitySatus`. Here is an example piece of data:
+
+

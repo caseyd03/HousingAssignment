@@ -23,4 +23,9 @@ In `data.json`, a sample housing dataset has been provided. Each object in this 
     "veteranStatus": "No"
 }`
 
+Using filters in python, create a copy of the dataset that only contains people with an `Income` of `15000` or less. Store this in a variable called `lowIncome`.
+
+Next, create the variables `greaterThan3Children` and `disabledOrVeteran` and use filters to create copies of the dataset containing only those with less than 3 children and those who qualify as `disabled` or `veteran`, respectively.
+
+Examine the length of these arrays in comparison to the original 25-element dataset. How much smaller is it now? Do you think these filters are helpful for 
 

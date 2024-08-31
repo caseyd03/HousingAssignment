@@ -60,9 +60,9 @@ After having created your dictionary, reflect on what challenges you now realize
 
 In about 150 words, answer these questions:
 
-What do you think about the additional resposibilities programmers have when problem-solving?
-What do you think would make it easier for you, a progammer, to make complex decisions?
-How do you view computer science after considering the social impact?
+- What do you think about the additional resposibilities programmers have when problem-solving?
+- What do you think would make it easier for you, a progammer, to make complex decisions?
+- How do you view computer science after considering the social impact?
 
 
 

@@ -48,4 +48,21 @@ Next, using your filtered dataset, calculate the total number of people, includi
 
 Now, we're going to take a look at real data from the Department of Housing and Urban Development. They don't have public datasets with personal information like the example we used, but they do have data we can work with. Take a look at `hud.py`.
 
+This snapshot of the HUD dataset contains a simple dictionary of the homeless population of San Luis Obispo county separated into age brackets.
+
+You've been assigned a similar task as before: SLO county only has resources to provide temporary housing to `50` people. However you decide to allocate these resources is up to you. **Your job is to create a dictionary just like the one provided, but with only 50 total people.**
+
+It is key for you to consider all factors before coding anything. What other information might you be able to extrapolate from age? It can be tough without additional information, but when dealing with very large numbers, it might not be available. Do your best and use your best judgement.
+
+### Conclusion
+
+After having created your dictionary, reflect on what challenges you now realize programmers might face when tackling real-world problems.
+
+In about 150 words, answer these questions:
+
+What do you think about the additional resposibilities programmers have when problem-solving?
+What do you think would make it easier for you, a progammer, to make complex decisions?
+How do you view computer science after considering the social impact?
+
+
 

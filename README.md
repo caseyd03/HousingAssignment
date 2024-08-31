@@ -44,4 +44,8 @@ Reflect on your filtered dataset. What do you think might have been an unforseen
 
 Next, using your filtered dataset, calculate the total number of people, including children, that are included. This will likely be at least double the `10` person limit. Now considering this factor, how might you edit your filters to stay under the limit? Simply reflect on this, you do not need to code it.
 
+### Part 3
+
+Now, we're going to take a look at real data from the Department of Housing and Urban Development. They don't have public datasets with personal information like the example we used, but they do have data we can work with. Take a look at `hud.py`.
+
 

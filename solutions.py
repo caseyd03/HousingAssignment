@@ -1,12 +1,12 @@
-
+#filter for those under 10000 income
 lowIncome = [
   person for person in data if person['Income'] <= 10000
 ]
-
+#filter for those with over 4 children
 greaterThan4Children = [
   person for person in data if person['numberOfChildren'] > 4
 ]
-
+#filter for those who are disabled or of veteran status
 disabledOrVeteran = [
   person for person in data if person['disabledStatus'] != "None" or person['veteranStatus'] == "Yes"
 ]
